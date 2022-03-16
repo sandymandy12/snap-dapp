@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://expo.dev/@martstech/snapchat-clone">
-    <img width="200px" src="https://raw.githubusercontent.com/MartsTech/snapchat-clone/main/assets/meta/icon.png" alt="Snapchat Logo" />
-  </a>
+  
   <br />
   Snapchat Clone
   <br />
@@ -10,11 +8,6 @@
 <h3 align="center">
    Snapchat Clone created with React Native.
 </h3>
-
-<p align="center">
-   <img src="https://img.shields.io/github/v/release/MartsTech/snapchat-clone" alt="Release" />
-   <img src="https://img.shields.io/github/license/MartsTech/snapchat-clone" alt="License" />
-</p>
 
 <p align="center">
   <a href="#demo">Demo</a> •
